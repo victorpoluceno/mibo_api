@@ -1,6 +1,2 @@
 api:
   type: python
-
-www:
-  type: python
-
